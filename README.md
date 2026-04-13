@@ -106,6 +106,7 @@ April 2026
 ## 📄 License
 MIT
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/effc74cf-2556-4833-a363-aa409dd51e3f" />
 
 ---
 
