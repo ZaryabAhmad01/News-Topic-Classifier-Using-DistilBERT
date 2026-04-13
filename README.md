@@ -1,11 +1,3 @@
-# News-Topic-Classifier-Using-DistilBERT
-Here's a **detailed but not too long** README for your project:
-
----
-
-## **README.md**
-
-```markdown
 # 📰 News Topic Classifier Using DistilBERT
 
 ## Project Overview
@@ -74,34 +66,6 @@ pip install torch transformers datasets scikit-learn gradio
 
 # Run the notebook
 jupyter notebook News_Classifier_BERT.ipynb
-```
-
-## 🌐 Live Demo
-
-The model is deployed with Gradio. Click the link below to test it live:
-
-🔗 **[https://af0c5e7583bc169b3.gradio.live](https://af0c5e7583bc169b3.gradio.live)**
-
-*Note: This link expires in 1 week. For permanent hosting, deploy to Hugging Face Spaces.*
-
-## 📁 Repository Files
-| File | Description |
-|------|-------------|
-| `News_Classifier_BERT.ipynb` | Complete training, evaluation, and deployment notebook |
-| `README.md` | Project documentation (this file) |
-
-## 💡 What I Learned
-- Fine-tuning transformer models (DistilBERT/BERT) for text classification
-- Transfer learning and model adaptation for downstream tasks
-- Tokenization and data preprocessing for NLP
-- Model evaluation using accuracy and F1-score
-- Deploying ML models with Gradio for interactive web apps
-
-## 📝 Author
-**Zaryab Ahmad**
-
-## 📅 Date
-April 2026
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/effc74cf-2556-4833-a363-aa409dd51e3f" />
 
 ## 📄 License
@@ -109,11 +73,27 @@ MIT
 ```
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/effc74cf-2556-4833-a363-aa409dd51e3f" />
 
----
+🌐 Live Demo
+The model is deployed with Gradio. Click the link below to test it live:
 
-This README is:
-- ✅ **Comprehensive** - Covers all important information
-- ✅ **Well-structured** - Easy to read with tables and sections
-- ✅ **Professional** - Suitable for GitHub portfolio
-- ✅ **Not too long** - Fits on one screen but has all details
+🔗 https://af0c5e7583bc169b3.gradio.live
 
+Note: This link expires in 1 week. For permanent hosting, deploy to Hugging Face Spaces.
+💡 What I Learned
+Fine-tuning transformer models (DistilBERT/BERT) for text classification
+
+Transfer learning and model adaptation for downstream tasks
+
+Tokenization and data preprocessing for NLP
+
+Model evaluation using accuracy and F1-score
+
+Deploying ML models with Gradio for interactive web apps
+
+📝 Author
+Zaryab Ahmad
+
+📅 Date
+April 2026
+
+📄 License
